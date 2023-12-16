@@ -1,0 +1,47 @@
+
+body{
+    background-color: beige;
+}
+.container{
+    background-color:whitesmoke;
+    margin-top:50px ;
+    border: 2px solid grey;
+}
+h3,h5{
+    text-align: center;
+}
+.main{
+    height:300px
+}
+.main1{
+    border: 2px solid skyblue;
+    height:210px
+
+}
+.main2{
+    height:200px ;
+    margin: 2px 0 0 2px;
+    padding: 60px 0px 0px 230px;
+    border: 1px solid silver;
+}
+.main3{
+    display: flex;
+    padding-top: 15px;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    align-content: center;
+}
+#name{
+    padding-left: 92px;
+}
+#email{
+    padding-left: 96px;
+}
+#Phone{
+    padding-left:25px;
+}
+#seats{
+    padding-left: 14px;
+}
+
+
